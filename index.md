@@ -13,4 +13,14 @@
     - **PEMDAS** RULE [ Parentheses-Exponent-Multiplication-Division-Addition-Subtraction ]
     - BMI Calculator
     - Life in Weeks Programme
-   
+3. Day - 3
+   - if condition
+   - find odd or even number
+   - Nested if (inside the if statement we are using another if statement)
+   - if/ elif /else  [many elif how many we want at last used else]
+   - BMI Calculator 2.0
+   - Leap Year Code
+   - Pizza Order Programme
+   - Logical Operators **[and, or, not]**
+   - Love Calculator Program
+   - Treasure Island Program.

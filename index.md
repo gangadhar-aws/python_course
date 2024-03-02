@@ -24,3 +24,23 @@
    - Logical Operators **[and, or, not]**
    - Love Calculator Program
    - Treasure Island Program.
+4. Day - 4
+   - random module from randint function
+   - Data Structures [List]
+   - List methods
+   - IndexErrors 
+   - rock paper and scissor game
+5. Day - 5
+   - Loops
+   - Range Function
+   - Sum of Even Number in Given Number
+   - FizzBuzz Program
+   - Password Generator
+6. Day - 6
+   - Python Functions
+   - Reeberg Robert code practice
+   - Indentation in Python (four spaces or single tab)
+   - While Loops
+7. Day - 7
+   - Hangman Project
+   - 

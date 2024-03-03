@@ -43,4 +43,7 @@
    - While Loops
 7. Day - 7
    - Hangman Project
-   - 
+8. Day - 8
+   - Functions and Inputs
+   - Area Paint Calculator
+   - Prime Number Check

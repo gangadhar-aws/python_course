@@ -66,3 +66,6 @@
      - Name Space : Local Vs Global Scope
      - Python Constant
      - Number Guess Game
+13. Day - 13
+    - Debugging 
+    - 

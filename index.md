@@ -47,3 +47,22 @@
    - Functions and Inputs
    - Area Paint Calculator
    - Prime Number Check
+   - Caesar Cipher Project
+9. Day -9 Auction Program
+   - Dictionaries
+   - Nesting Lists
+   - Auction Project
+10. Day-10 Functions with Inputs
+    - Functions and Return values
+    - Calculator Program
+    - DockStrings
+    - print vs Return
+    - while flags
+    <br>
+11. Day - 11
+    - Black Jack Game
+      <br>
+12. Day - 12
+     - Name Space : Local Vs Global Scope
+     - Python Constant
+     - Number Guess Game

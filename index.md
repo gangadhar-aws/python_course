@@ -68,4 +68,11 @@
      - Number Guess Game
 13. Day - 13
     - Debugging 
-    - 
+14. Day - 14
+   - higher and lower game
+15. Day - 15
+   - Install Python
+   - Install Pycharm
+16. Day - 16
+   - OOP concept applying to coffe machine project
+   

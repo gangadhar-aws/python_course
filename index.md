@@ -68,4 +68,18 @@
      - Number Guess Game
 13. Day - 13
     - Debugging 
+14. Day - 14
+    - Higher and Lower Game
+15. Day - 15 
+    - Coffe Machine Project 
+16. Day - 16
+    - Oop Programming Concepts
+    - Creating Objects from turtle class
+    - Installing Python Packages
+    - OOP Coffee Machine
+17. Day - 17
+    - Creating Class
+    - Quiz Game
+
+19. Day - 19
     - 

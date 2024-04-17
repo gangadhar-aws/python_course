@@ -69,7 +69,6 @@
 13. Day - 13
     - Debugging 
 14. Day - 14
-<<<<<<< HEAD
     - Higher and Lower Game
 15. Day - 15 
     - Coffe Machine Project 
@@ -83,13 +82,5 @@
     - Quiz Game
 
 19. Day - 19
-    - 
-=======
-   - higher and lower game
-15. Day - 15
-   - Install Python
-   - Install Pycharm
-16. Day - 16
-   - OOP concept applying to coffe machine project
-   
->>>>>>> c6580e082ee9c5adc639f3d0fdf74117be864184
+    - What is Higher Order Functions
+    - Turtle Control 

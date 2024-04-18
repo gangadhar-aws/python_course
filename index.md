@@ -86,4 +86,6 @@
     - Turtle Control 
 20. Day - 20
     - Snake Game
-    - 
+    - Inheritence Demo
+    - Slicing Python
+    
